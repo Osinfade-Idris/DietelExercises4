@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1bd8f572-52ae-4364-8749-12c3ba336565" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DietelChap4/GasMileage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DietelChap4/GasMileage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +43,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.GasMileage">
-    <configuration name="ClassAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Average.ClassAverage" />
+  <component name="RunManager" selected="Application.LoopingTable">
+    <configuration name="CustomerCreditLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomerCreditLimit" />
       <module name="DietelChap4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Average.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoopingTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopingTable" />
+      <module name="DietelChap4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Mystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mystery" />
       <module name="DietelChap4" />
@@ -83,26 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentGrade.StudentTest" />
-      <module name="DietelChap4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StudentGrade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopingTable" />
+        <item itemvalue="Application.CustomerCreditLimit" />
         <item itemvalue="Application.GasMileage" />
         <item itemvalue="Application.Mystery" />
         <item itemvalue="Application.Increment" />
-        <item itemvalue="Application.ClassAverage" />
-        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
